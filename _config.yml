@@ -1,0 +1,11 @@
+title: Genics Blog Docs
+email: genicsblog@gmail.com
+description: >-
+  This documentation contains all the referene you need
+  to start publishing content at genicsblog.com
+baseurl: ""
+url: "https://docs.genicsblog.com"
+
+theme: just-the-docs
+plugins:
+  - jekyll-feed
