@@ -1,11 +1,31 @@
-title: Genics Blog Docs
+title: Genics Docs
 email: genicsblog@gmail.com
 description: >-
-  This documentation contains all the referene you need
+  This documentation contains all the reference you need
   to start publishing content at genicsblog.com
 baseurl: ""
 url: "https://docs.genicsblog.com"
 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
 plugins:
   - jekyll-feed
+
+aux_links:
+  "Genics Blog":
+    - "https://genicsblog.com"
+  "Discord":
+    - "https://discord.gg/qQEsNkF7F6"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+gh_edit_link: true
+gh_edit_link_text: "Improve this page"
+gh_edit_repository: "https://github.com/genicsblog/docs"
+gh_edit_branch: "master"
+gh_edit_source: docs
+gh_edit_view_mode: "tree"
+
+ga_tracking: G-9R38Y3NZHF
+ga_tracking_anonymize_ip: true
