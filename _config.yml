@@ -6,6 +6,7 @@ description: >-
 baseurl: ""
 url: "https://docs.genicsblog.com"
 
+# theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 plugins:
@@ -24,7 +25,6 @@ gh_edit_link: true
 gh_edit_link_text: "Improve this page"
 gh_edit_repository: "https://github.com/genicsblog/docs"
 gh_edit_branch: "master"
-gh_edit_source: docs
 gh_edit_view_mode: "tree"
 
 ga_tracking: G-9R38Y3NZHF
