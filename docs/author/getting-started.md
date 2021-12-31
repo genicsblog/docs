@@ -4,7 +4,7 @@ title: Getting Started
 parent: Author Docs
 nav_order: 1
 description: "Getting started as an Author at the Genics Blog."
-permalink: /docs/author/getting-started
+permalink: /author/getting-started
 ---
 
 # Getting started
@@ -20,24 +20,32 @@ Creating a profile is really simple:
 
 - Copy this piece of text to the end of the existing content:
     ```yml
-    gouravkhunger:
-        name: "Gourav Khunger"
-        role: "Founder @ Genics Blog"
+    gouravkhunger: # replace gouravkhunger with the username you want
+        name: "Gourav Khunger" # the display name you want
+        role: "Founder @ Genics Blog" # anything you want to be known for, ex: Full stack dev, Intern @ Company, etc.
         avatar: "https://avatars.githubusercontent.com/u/46792249"
-        bio: "16 year old passionate App developer. I have interests in web development too."
-        links:
-            stackoverflow: "9819031" # just the user id
-            github: "gouravkhunger" # just the user id
-            linkedin: "in/gourav-khunger-584351216/" # <locale>/<user-id>
-            twitter: "gourav_khunger" # just the user id
-            instagram: "_gourav.khunger_"  # just the user id
-            youtube: "channel/UCkv-J_D8jK2N02nBcyM92mQ"  # <channel or c>/<channel-id>
+        bio: "16 year old passionate App developer. I have interests in web development too." # your about me, max 200 chars
+        links: # links to your social media
+            github: "gouravkhunger" # (GITHUB PROFILE IS REQUIRED) Format: just the username
+            stackoverflow: "9819031" # Format: just the user id
+            linkedin: "in/gourav-khunger-584351216/" # Format: <locale>/<user-id>
+            twitter: "gourav_khunger" # Format: just the username
+            instagram: "_gourav.khunger_"  # Format: just the username
+            youtube: "channel/UCkv-J_D8jK2N02nBcyM92mQ"  # Format: <channel or c>/<channel-id> Depends on if your channel is verified or not
     ```
 
-    Here, replace `gouravkhunger` with your desired username(no special characters please) and other information. You can use any avatar hosted anywhere online, until it is copyright free.
+    It is recommended to take a look at other's profile declatarations to get a gist of how this process works. Please keep these points in mind:
 
-    Ensure that no whitespace is before your user name, and all the text under it is whitespaced with tabs.
+    - Replace `gouravkhunger` with your desired username(no special characters please) and fill in the other information.
+    
+    - You can use a link to the image file for any avatar hosted online, until it is copyright free.
 
-- Commit your changes and make a pull request. 
+    - Include only those social media links which you want to include in your profile.
 
-We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time.
+    - Ensure that no whitespace is present to the left of your user name, and all the text under it is whitespaced with tabs. If you need help with yaml syntax, [check out this document](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
+
+- After your are done, **Remove all the comments**(the `#`s and the text after them)
+
+- Commit your changes make a pull request. 
+
+We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time, at `https://genicsblog.com/contributor/<you-username>`.
