@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Getting Started
-parent: Author Docs
-nav_order: 1
+nav_order: 2
 description: "Getting started as an Author at the Genics Blog."
-permalink: /author/getting-started
+permalink: /getting-started
 ---
 
 # Getting started
@@ -48,4 +47,4 @@ Creating a profile is really simple:
 
 - Commit your changes make a pull request. 
 
-We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time, at `https://genicsblog.com/contributor/<you-username>`.
+We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time, at `https://genicsblog.com/contributor/<your-username>`.

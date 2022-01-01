@@ -13,10 +13,10 @@ plugins:
   - jekyll-feed
 
 aux_links:
+  "Discord Server":
+    - "https://discord.gg/qQEsNkF7F6"
   "Genics Blog":
     - "https://genicsblog.com"
-  "Discord":
-    - "https://discord.gg/qQEsNkF7F6"
 
 back_to_top: true
 back_to_top_text: "Back to top"
