@@ -29,8 +29,8 @@ Contributions to Genics Blog can be done in two ways - either by submitting arti
 ---
 
 Checkout these resources:
-- [Author Documentation](/docs/author)
-- [Developer Documentation](/docs/developer)
+- [Author Documentation](/author)
+- [Developer Documentation](/developer)
 
 ---
 

@@ -16,7 +16,7 @@ The very first step to get started at Genics Blog would be to get yourself a con
 Creating a profile is really simple:
 
 - Open the [`contributors.yml`](https://github.com/genicsblog/genicsblog.github.io/blob/main/_data/contributors.yml) file and press the edit button on the top right.
-    ![image](https://user-images.githubusercontent.com/46792249/147688574-f3e743a8-a406-42f5-8503-b666ca9b7601.png)
+    ![image](https://user-images.githubusercontent.com/46792249/147688574-f3e743a8-a406-42f5-8503-b666ca9b7601.png){:height="300"}{:width="400"}
 
 - Copy this piece of text to the end of the existing content:
     ```yml

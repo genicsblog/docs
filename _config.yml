@@ -6,7 +6,7 @@ description: >-
 baseurl: ""
 url: "https://docs.genicsblog.com"
 
-theme: just-the-docs
+# theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 plugins:

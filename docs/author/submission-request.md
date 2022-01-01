@@ -15,21 +15,21 @@ To publish an article at [Genics Blog](https://genicsblog.com), first you would 
 
 The issue template contains a set of questions that would ease the publishing process for us.
 
-### Idea
+## Idea
 
 In this space you can describe what topic you want to write an article on and other general information you would like to share with us.
 
-### Topics
+## Topics
 
 This section asks you to list the primary **Category** and the **Tags** this post would belong to. **You can propose new categories and tags!**
 
-Remember, **a post can have only 1 Category and a maximum of 3 tags**(exemptions can be made, please [contact us](https://genicsblog.com/contact) in such case)
+Remember, **a post can have only 1 Category and a maximum of 3 tags**(Exceptions can be made, please [contact us](https://genicsblog.com/contact) in such case)
 
-### Cross-posting
+## Cross-posting
 
 If you want to share your pre-written article, please add a link to that.
 
-### Remarks
+## Remarks
 
 In this section, you can share some additional information if you wish to.
 
