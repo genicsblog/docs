@@ -33,9 +33,9 @@ Creating a profile is really simple:
             youtube: "channel/UCkv-J_D8jK2N02nBcyM92mQ"  # Format: <channel or c>/<channel-id> Depends on if your channel is verified or not
     ```
 
-    It is recommended to take a look at other's profile declatarations to get a gist of how this process works. Please keep these points in mind:
+    It is recommended to take a look at other's profile declarations to get a gist of how this process works. Please keep these points in mind:
 
-    - Replace `gouravkhunger` with your desired username(no special characters please) and fill in the other information.
+    - Replace `gouravkhunger` with your desired username (no special characters please) and fill in the other information.
     
     - You can use a link to the image file for any avatar hosted online, until it is copyright free.
 
@@ -43,7 +43,7 @@ Creating a profile is really simple:
 
     - Ensure that no whitespace is present to the left of your user name, and all the text under it is whitespaced with tabs. If you need help with yaml syntax, [check out this document](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
 
-- After your are done, **Remove all the comments**(the `#`s and the text after them)
+- After your are done, **Remove all the comments** (the `#`s and the text after them)
 
 - Commit your changes make a pull request. 
 

@@ -88,7 +88,7 @@ notice: "**Markdown** is supported in this _one_ so you could do [such things](h
 ---
 ```
 
-- `original` is used to define the original URL of the post(only applicable if you are cross-posting.)
+- `original` is used to define the original URL of the post (only applicable if you are cross-posting.)
 
 - `notice` is a notice that will be shown at the top of the post. You could add some note about the prerequisites for a tutorial, or any other info you want to show.
 

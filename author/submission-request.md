@@ -23,7 +23,7 @@ In this space you can describe what topic you want to write an article on and ot
 
 This section asks you to list the primary **Category** and the **Tags** this post would belong to. **You can propose new categories and tags!**
 
-Remember, **a post can have only 1 Category and a maximum of 3 tags**(Exceptions can be made, please [contact us](https://genicsblog.com/contact) in such case)
+Remember, **a post can have only 1 Category and a maximum of 3 tags** (Exceptions can be made, please [contact us](https://genicsblog.com/contact) in such case)
 
 ## Cross-posting
 
