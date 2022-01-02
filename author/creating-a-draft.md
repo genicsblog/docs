@@ -14,7 +14,7 @@ Every post at Genics Blog starts as a draft. In this section you'll learn how to
 Prerequisites:
 - [Get a contributor profile](/getting-started#make-a-contributor-profile).
 - Fork the blog repository to your github profile.
-- Get a gist of how to add [UI elements](/ui-components) to your post.
+- Get a gist of how to add [UI elements](/author/ui-components) to your post.
 
 ---
 
@@ -74,7 +74,7 @@ author: gouravkhunger
 
 - `tag` defines what smaller topics the post is about. Please use a maximmum of 3 tags per post. Exceptions can be made, [contact us](https://genicsblog.com/contact){:target="_blank"} in that case.
 
-- `author` is the username of the author of the post. It was defined when you made a [contributor profile](/author/getting-started#make-a-contributor-profile).
+- `author` is the username of the author of the post. It was defined when you made a [contributor profile](/getting-started#make-a-contributor-profile).
 
 ### Optional Values
 
@@ -94,11 +94,11 @@ notice: "**Markdown** is supported in this _one_ so you could do [such things](h
 
 ## Write the content
 
-After you are done with the frontmatter, you can start writing the content of your post.
+After you are done with the frontmatter, you can start writing the content of your post below the `---`.
 
-Check out the [UI Components guide]((/author/ui-components)) to learn how to add various elements to your post.
+Check out the [UI Components guide](/author/ui-components) to learn how to add various elements to your post.
 
-You can take a look at [other drafts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
+Also take a look at [other drafts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
 
 ## ALERT!
 

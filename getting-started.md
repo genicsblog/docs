@@ -48,3 +48,18 @@ Creating a profile is really simple:
 - Commit your changes make a pull request. 
 
 We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time, at `https://genicsblog.com/contributor/<your-username>`.
+
+## Fork and clone the GitHub repository:
+
+If you need to make lots of changes to the repository, you can fork the repository to make and propose multiple changes at once.
+
+![Fork button on the top right of a GitHub repository](https://user-images.githubusercontent.com/46792249/147870132-bd3b3dc5-47bd-4ee3-8c06-ddd132c6eecd.png){:width="400"}
+
+The fork will be created in your account, you can clone it to your local machine and cd into it:
+
+```shell
+git clone https://github.com/<your account>/genicsblog.github.io.git
+cd genicsblog.github.io
+```
+
+Once you make your changes, you can follow [this contribution guide](http://genicsblog.com/contribution-guide){:target="_blank"} to make a Pull Request.
