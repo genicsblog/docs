@@ -14,7 +14,7 @@ The very first step to get started at Genics Blog would be to get yourself a con
 
 Creating a profile is really simple:
 
-- Open the [`contributors.yml`](https://github.com/genicsblog/genicsblog.github.io/blob/main/_data/contributors.yml) file and press the edit button on the top right.
+- Open the [`contributors.yml`](https://github.com/genicsblog/genicsblog.github.io/blob/main/_data/contributors.yml){:target="_blank"} file and press the edit button on the top right.
     ![image](https://user-images.githubusercontent.com/46792249/147688574-f3e743a8-a406-42f5-8503-b666ca9b7601.png){:height="300"}{:width="400"}
 
 - Copy this piece of text to the end of the existing content:
@@ -41,7 +41,7 @@ Creating a profile is really simple:
 
     - Include only those social media links which you want to include in your profile.
 
-    - Ensure that no whitespace is present to the left of your user name, and all the text under it is whitespaced with tabs. If you need help with yaml syntax, [check out this document](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
+    - Ensure that no whitespace is present to the left of your user name, and all the text under it is whitespaced with tabs. If you need help with yaml syntax, [check out this document](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html){:target="_blank"}.
 
 - After your are done, **Remove all the comments** (the `#`s and the text after them)
 

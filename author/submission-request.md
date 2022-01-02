@@ -2,14 +2,14 @@
 layout: default
 title: Create a Submission Request
 parent: Author Docs
-nav_order: 2
+nav_order: 1
 description: "Creating an Article submission request at Genics Blog."
 permalink: /author/create-a-submission-request
 ---
 
 # Send an Article Submission Request
 
-To publish an article at [Genics Blog](https://genicsblog.com), first you would need to [create a new issue](https://github.com/genicsblog/genicsblog.github.io/issues/new/choose) on the repository with the **Submission Request** template.
+To publish an article at [Genics Blog](https://genicsblog.com){:target="_blank"}, first you would need to [create a new issue](https://github.com/genicsblog/genicsblog.github.io/issues/new/choose){:target="_blank"} on the repository with the **Submission Request** template.
 
 ---
 
@@ -23,7 +23,7 @@ In this space you can describe what topic you want to write an article on and ot
 
 This section asks you to list the primary **Category** and the **Tags** this post would belong to. **You can propose new categories and tags!**
 
-Remember, **a post can have only 1 Category and a maximum of 3 tags** (Exceptions can be made, please [contact us](https://genicsblog.com/contact) in such case)
+Remember, **a post can have only 1 Category and a maximum of 3 tags** (Exceptions can be made, please [contact us](https://genicsblog.com/contact){:target="_blank"} in such case)
 
 ## Cross-posting
 

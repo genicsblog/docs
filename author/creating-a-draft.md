@@ -2,7 +2,7 @@
 layout: default
 title: Creating a Draft
 parent: Author Docs
-nav_order: 3
+nav_order: 2
 description: "The procedure to create a draft post at the Genics Blog."
 permalink: /author/writing-the-article
 ---
@@ -18,7 +18,7 @@ Prerequisites:
 
 ---
 
-The content at genicsblog.com is written in [Markdown](https://en.wikipedia.org/wiki/Markdown). This means that you can write your content in plain text and it will be rendered HTML automatically. Let's create a draft post in markdown!
+The content at genicsblog.com is written in [Markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"}. This means that you can write your content in plain text and it will be rendered HTML automatically. Let's create a draft post in markdown!
 
 ## Create a new file in `_drafts` folder
 
@@ -72,7 +72,7 @@ author: gouravkhunger
 
 - `category` defines what topic the post is about. Please use only one category per post.
 
-- `tag` defines what smaller topics the post is about. Please use a maximmum of 3 tags per post. Exceptions can be made, [contact us](https://genicsblog.com/contact) in that case.
+- `tag` defines what smaller topics the post is about. Please use a maximmum of 3 tags per post. Exceptions can be made, [contact us](https://genicsblog.com/contact){:target="_blank"} in that case.
 
 - `author` is the username of the author of the post. It was defined when you made a [contributor profile](/author/getting-started#make-a-contributor-profile).
 
@@ -94,7 +94,11 @@ notice: "**Markdown** is supported in this _one_ so you could do [such things](h
 
 ## Write the content
 
-After you are done with the frontmatter, you can start writing the content of your post. You can take a look at [other drafts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_drafts) or [published posts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_posts) to take a look at how the content is written.
+After you are done with the frontmatter, you can start writing the content of your post.
+
+Check out the [UI Components guide]((/author/ui-components)) to learn how to add various elements to your post.
+
+You can take a look at [other drafts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
 
 ## ALERT!
 
@@ -114,7 +118,7 @@ Once your PR is successfully merged, the draft will appear to a link similar too
 https://genicsblog.com/draft/how-to-write-a-draft
 ```
 
-The slug is defined by the file name you made. You can preview your changes here, and if needed create new pull requests to publish your changes.
+The slug is defined by the name of the file you made. You can preview your changes here, and if needed create new pull requests to publish your changes.
 
 ## Next Steps
 

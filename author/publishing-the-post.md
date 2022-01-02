@@ -2,7 +2,7 @@
 layout: default
 title: Publishing the post
 parent: Author Docs
-nav_order: 3
+nav_order: 4
 description: "The procedure to publish your draft as a post at the Genics Blog."
 permalink: /author/publishing-the-post
 ---
@@ -25,6 +25,6 @@ We'll go through the draft and make basic edits on grammar, styling, formatting 
 
 Once your draft has gone through the review process, the draft file will be moved to the `_posts` folder which will get it published to the blog!
 
-Congrats on getting your post published to the [Genics Blog](https://genicsblog.com)!
+Congrats on getting your post published to the [Genics Blog](https://genicsblog.com){:target="_blank"}!
 
 It is now live and you can share it with the world. People could add comments to the post to which you can add replies. Remember to use your full name to in the **Name** field to get identified as the author of the post in the comments section.

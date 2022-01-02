@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Author Docs
-nav_order: 3
+nav_order: 4
 has_children: true
 description: "The complete guide to become an author at Genics Blog."
 permalink: /author
@@ -9,6 +9,6 @@ permalink: /author
 
 # Author Documentation
 
-**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.gg/qQEsNkF7F6) to get help faster.
+**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.gg/qQEsNkF7F6){:target="_blank"} to get help faster.
 
 Before proceeding to the next step, please make sure you have read the [Getting Started](/getting-started) guide.
