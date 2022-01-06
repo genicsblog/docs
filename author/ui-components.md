@@ -13,7 +13,7 @@ This guide explains how to add various UI elements such as images, links, code b
 
 **Elements may not render exactly the similar as in documentation because of a different theme used for the blog. The basic syntax is the same.**
 
-**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.gg/qQEsNkF7F6){:target="_blank"} to get help faster.
+**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.genicsblog.com){:target="_blank"} to get help faster.
 
 ---
 
