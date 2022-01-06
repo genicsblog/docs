@@ -11,6 +11,6 @@ permalink: /developer
 
 This guide is being written. Please check back later for updates.
 
-**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.gg/qQEsNkF7F6){:target="_blank"} to get help faster.
+**NOTE**: If you are stuck at any step, create an issue on github and we'll help you out, or [join our discord server](https://discord.genicsblog.com){:target="_blank"} to get help faster.
 
 Before proceeding to the next step, please make sure you have read the [Getting Started](/getting-started) guide.
