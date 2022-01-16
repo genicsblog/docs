@@ -119,3 +119,29 @@ class HelloWorld {
 Here's a list of supporetd languages:
 
 markup, css, clike, javascript, jsx, bash, batch, c, cpp, csv, dart, docker, git, groovy, ignore, java, json, kotlin, python, regex, yaml.
+
+## 3rd Party 
+
+### Youtube Video
+
+Use this snippet to insert a youtube video anywhere in the article:
+
+```liquid
+{% raw %}{% include youtube.html id="video id here" %}{% endraw %} 
+```
+
+### Loom Video
+
+Use this snippet to insert a loom video anywhere in the article:
+
+```liquid
+{% raw %}{% include loom.html id="video id here" %}{% endraw %} 
+```
+
+### CodePen
+
+To add a codepen block, use this snippet:
+
+```liquid
+{% raw %}{% include codepen.html userName="your codepen username" penId="pen id" %}{% endraw %}
+```
