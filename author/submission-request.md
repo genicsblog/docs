@@ -27,7 +27,13 @@ Remember, **a post can have only 1 Category and a maximum of 3 tags** (Exception
 
 ## Cross-posting
 
-If you want to share your pre-written article, please add a link to that.
+Content at Genics is classified into two categories:
+
+- **Originals**: Freshly written content. *Authors at Genics own what they write* and we allow them to republish it at their own site, but after setting proper canonicals back to the original article. This ensures search engines that the content isn't copied.
+
+- **Cross posts**: Article which are already published by authors somewhere and they wish to share it at Genics. We happily add canonicals back to the original content. But remember, *cross-posts don't get the [seo backlink benefits](http://genicsblog.com/about#how-can-you-benefit)*.
+
+If you want to share your pre-written article, please add a link to that in this section. If this is an original submission, put N/A.
 
 ## Remarks
 
