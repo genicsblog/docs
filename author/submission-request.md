@@ -9,7 +9,7 @@ permalink: /author/create-a-submission-request
 
 # Send an Article Submission Request
 
-To publish an article at [Genics Blog](https://genicsblog.com){:target="_blank"}, first you would need to [create a new issue](https://github.com/genicsblog/genicsblog.github.io/issues/new/choose){:target="_blank"} on the repository with the **Submission Request** template.
+To publish an article at [Genics Blog](https://genicsblog.com){:target="_blank"}, first you would need to [create a new issue](https://github.com/genicsblog/genicsblog.com/issues/new/choose){:target="_blank"} on the repository with the **Submission Request** template.
 
 ---
 

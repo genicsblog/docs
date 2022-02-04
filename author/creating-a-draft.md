@@ -98,7 +98,7 @@ After you are done with the frontmatter, you can start writing the content of yo
 
 Check out the [UI Components guide](/author/ui-components) to learn how to add various elements to your post.
 
-Also take a look at [other drafts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.github.io/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
+Also take a look at [other drafts](https://github.com/genicsblog/genicsblog.com/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.com/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
 
 ## ALERT!
 
