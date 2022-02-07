@@ -51,7 +51,7 @@ layout: post
 title:  "How to write a draft"
 excerpt: "The complete guide you'll need to refer to create mind blowing drafts."
 image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1631596605889/xCcnwfFVk.png"
-languages: ["kotlin", "xml"]
+hasCode: true
 category: content-writing
 tags: ["writing-skills", "tips"]
 author: gouravkhunger
@@ -68,7 +68,7 @@ author: gouravkhunger
 
 - `image` is the image url where the thumbnail of this post is hosted. We do not host images, so you need to drag and drop your preferred thumbnail to the GitHub editor and it will automatically generate a URL for the hosted image.
 
-- `languages` is a list of programming languages that this post contains snippets of. If your post doens't require snippets, simply remove this variable. Only add the **lowerrcase names** of the programming language to this array.
+- `hasCode` is a boolean value determining if the article has code blocks/snippets. If your post doens't require snippets, simply remove this key from the front matter. This is used to load `prism.js` if the value of this key is `true`.
 
 - `category` defines what topic the post is about. Please use only one category per post.
 
