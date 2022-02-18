@@ -64,6 +64,18 @@ For example, writing this:
 
 will render: [Genics Blog](https://genicsblog.com)
 
+## Link Buttons
+
+Link buttons are special links that adapt to the light and dark theme on the blog. They appear as buttons which open a link when pressed.
+
+```liquid
+{% raw %}{% include linkbtn.html text="I am a link" href="https://genicsblog.com" %}{% endraw %}
+```
+
+This renders a button component which opens a new tab with the website specified in `href` attribute. Other attributes it supports are `rel` and `target`, which default to `nofollow noreferrer noopener` and `_blank` by default.
+
+Example: [This post](https://genicsblog.com/github-repositories-to-crush-any-programming-interview) uses link buttons to add some cool links.
+
 ## Media content
 
 Images and GIFs work similar to hyperlink syntax. Add them using this:
