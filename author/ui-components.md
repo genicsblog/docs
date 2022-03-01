@@ -128,9 +128,9 @@ class HelloWorld {
 ```
 ````
 
-Here's a list of supporetd languages:
+Here's a list of supported languages:
 
-markup, css, clike, javascript, jsx, bash, batch, c, cpp, csv, dart, docker, git, groovy, ignore, java, json, kotlin, python, regex, yaml.
+markup, css, clike, javascript, jsx, bash, batch, c, cpp, csv, dart, docker, git, groovy, ignore, java, json, kotlin, python, regex, yaml, solidity.
 
 ## 3rd Party 
 
