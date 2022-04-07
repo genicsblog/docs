@@ -14,13 +14,15 @@ Welcome to the Genics Blog documentation! This documentation is the ultimate gui
 
 Throughout this documentation, you'll find specific words whose meanings are as follows:
 
-- **Documentation / Docs / Guide**: Refers to this website, `https://docs.genicsblog.com`
+- **Documentation / Docs / Guide**: Refers to this website, `https://docs.genicsblog.com`.
 
-- **Contributor**: A person who contributes *anything* to the Genics Blog is a contributor. **Authors and developers of the blog are both considered contributors**. Each contributor has their own unique page- `https://genicsblog.com/contributor/<name>`
+- **Blog**: Refers to the [Genics Blog](https://genicsblog.com){:target="_blank"}.
+
+- **Author**: A person who contributes content to the blog. Each author gets their own unique page at `https://genicsblog.com/author/<username>`.
 
 - **Repository**: (unless otherwise specified) The GitHub page at which the [code for the blog](https://github.com/genicsblog/genicsblog.com){:target="_blank"} is hosted.
 
-- **Series**: A collection of similar kind of posts groupped together. [Example](https://genicsblog.com/series/android-development){:target="_blank"}.
+- **Series**: A collection of similar kind of posts groupped together: [example](https://genicsblog.com/series/android-development){:target="_blank"}.
 
 ## Contributions
 

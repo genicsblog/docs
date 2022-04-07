@@ -2,7 +2,7 @@
 layout: default
 title: Publishing the post
 parent: Author Docs
-nav_order: 4
+nav_order: 5
 description: "The procedure to publish your draft as a post at the Genics Blog."
 permalink: /author/publishing-the-post
 ---

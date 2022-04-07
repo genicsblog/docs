@@ -2,7 +2,7 @@
 layout: default
 title: Creating a Draft
 parent: Author Docs
-nav_order: 2
+nav_order: 4
 description: "The procedure to create a draft post at the Genics Blog."
 permalink: /author/writing-the-article
 ---
@@ -12,7 +12,7 @@ permalink: /author/writing-the-article
 Every post at Genics Blog starts as a draft. In this section you'll learn how to create a draft post.
 
 Prerequisites:
-- [Get a contributor profile](/getting-started#make-a-contributor-profile).
+- [An author profile](/author/configure-your-profile).
 - Fork the blog repository to your github profile.
 - Get a gist of how to add [UI elements](/author/ui-components) to your post.
 

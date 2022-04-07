@@ -2,7 +2,7 @@
 layout: default
 title: Create a Submission Request
 parent: Author Docs
-nav_order: 1
+nav_order: 2
 description: "Creating an Article submission request at Genics Blog."
 permalink: /author/create-a-submission-request
 ---

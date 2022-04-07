@@ -92,12 +92,12 @@ For example:
 
 Produces:
 
-![Genics Blog Logo](https://genicsblog.com/assets/images/genicsblog.png)
+![Genics Blog Logo](https://genicsblog.com/assets/images/genicsblog.png){:width="256px" height="256px"}
 
 You can control the height and width of the image using this syntax (replace 100px with the size you wish):
 
 ```markdown
-![Genics Blog Logo](https://genicsblog.com/assets/images/genicsblog.png){:width="100px" height="100px"}
+![Genics Blog Logo](https://genicsblog.com/assets/images/genicsblog.png){:width="128px" height="128px"}
 ```
 
 Example:
