@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome
 
-Welcome to the Genics Blog documentation! This documentation is the ultimate guide you need to refer to for publishing content at the [Genics Blog](https://genicsblog.com){:target="_blank"}.
+Welcome to the Genics Blog documentation! This documentation is the ultimate guide you need to refer to become a contributor at the [Genics Blog](https://genicsblog.com){:target="_blank"}.
 
 ## Terminology
 
@@ -18,7 +18,7 @@ Throughout this documentation, you'll find specific words whose meanings are as 
 
 - **Blog**: Refers to the [Genics Blog](https://genicsblog.com){:target="_blank"}.
 
-- **Author**: A person who contributes content to the blog. Each author gets their own unique page at `https://genicsblog.com/author/<username>`.
+- **Author**: A person who contributes content to the blog. Each author gets their own unique page at `https://genicsblog.com/author/<username>/`.
 
 - **Repository**: (unless otherwise specified) The GitHub page at which the [code for the blog](https://github.com/genicsblog/genicsblog.com){:target="_blank"} is hosted.
 
@@ -36,4 +36,4 @@ Check out these resources:
 
 ---
 
-A list of open tasks can be found at the [Contribute page](https://genicsblog.com/contribute){:target="_blank"}. All kind of contributributions are heartily welcome!
+A list of open tasks can be found at the [Contribute page](https://genicsblog.com/contribute){:target="_blank"}. All kind of contributions are heartily welcome!

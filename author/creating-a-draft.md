@@ -18,7 +18,7 @@ Prerequisites:
 
 ---
 
-The content at genicsblog.com is written in [Markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"}. This means that you can write your content in plain text and it will be rendered HTML automatically. Let's create a draft post in markdown!
+The content at genicsblog.com is written in [Markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"}. This means that you can write your content in plain text and it will be rendered to HTML automatically. Let's create a draft post in markdown!
 
 ## Create a new file in `_drafts` folder
 
@@ -43,24 +43,27 @@ In the editor, give your file a name. Let's say you want to create a draft title
 
 Genics Blog requires each post/draft to have a frontmatter that defines the title, description, and other metadata. This is declared at the very top of the file within `---` quotations.
 
-Here's an example of a minimal valid frontmatter that Genics Blog understands:
+**Note**: To ease the process explained below, you can use the [frontmatter generator](https://genicsblog.com/tool/frontmatter-generator) tool and copy the generated content to the top of your file.
+
+To manually generate frontmatter, here's an example of a minimal valid frontmatter that Genics Blog understands:
 
 ```yml
 ---
 layout: post
 title:  "How to write a draft"
 excerpt: "The complete guide you'll need to refer to create mind blowing drafts."
-image: "https://cdn.hashnode.com/res/hashnode/image/upload/v1631596605889/xCcnwfFVk.png"
+description: "This is shown to the search engines. If undefined, excerpt is used as the description."
+image: "A url of the hosted image. Paste the image to a comment box on GitHub issues to generate a link quickly."
 hasCode: true
-category: content-writing
-tags: ["writing-skills", "tips"]
+category: coding
+tags: ["blogging", "tips"]
 author: gouravkhunger
 ---
 ```
 
 **Omit any of the variables if you don't want to use them!**
 
-- `layout` defines what kind of page it will be (here, a `post`).
+- `layout` defines what kind of page it will be (for articles, always keep it `post`).
 
 - `title` is the title of the post that will be shown in bold at the blog.
 
@@ -96,21 +99,19 @@ notice: "**Markdown** is supported in this _one_ so you could do [such things](h
 
 After you are done with the frontmatter, you can start writing the content of your post below the `---`.
 
-Check out the [UI Components guide](/author/ui-components) to learn how to add various elements to your post.
+Please read the [UI Components guide](/author/ui-components) to learn how to add various elements to your post.
 
 Also take a look at [other drafts](https://github.com/genicsblog/genicsblog.com/tree/main/_drafts){:target="_blank"} or [published posts](https://github.com/genicsblog/genicsblog.com/tree/main/_posts){:target="_blank"} to take a look at how the content is written.
 
 ## ALERT!
 
-Please **DO NOT** edit any file outside the drafts folder while you are writing your draft, and **DO NOT** change with other author's drafts. This will cause the Pull request checks to fail and your draft won't be automatically published.
+Please **DO NOT** edit any file outside the drafts folder while you are writing your draft, and **DO NOT** change with other author's drafts. This will cause the Pull request checks to fail and delay the review process because of the needed investigation.
 
-Repeated attempts to bypass/hack the check system will result in a permanent ban from the site, the discord community and will result in deletion of your profile.
+Repeated attempts to bypass/hack the CI system will result in a permanent ban from the site, the discord community and will result in deletion of your profile.
 
 ## Previewing the draft
 
-At this point, you'll want to preview how the draft would look like on the site. To do so, commit your finalised changes and make a Pull Request to immediately publish the draft article to the blog. The draft will be published to a private page that is not indexed by search engines.
-
-**A draft is accessible only if someone has its link**. This feature is for the authors to preview their posts before they are published and to share with only those whom they want to.
+At this point, you'll want to preview how the draft would look like on the site.
 
 Once your PR is successfully merged, the draft will appear to a link similar too this:
 
@@ -118,7 +119,11 @@ Once your PR is successfully merged, the draft will appear to a link similar too
 https://genicsblog.com/draft/how-to-write-a-draft
 ```
 
-The slug is defined by the name of the file you made. You can preview your changes here, and if needed create new pull requests to publish your changes.
+Replace `how-to-write-a-draft` with the sluggified name of your file.
+
+**A draft is accessible only if someone has its link**. This feature is for the authors to preview their posts before they are published and to share with only those whom they want to.
+
+The slug is defined by the name of the file you made. You can preview your changes here, and if needed create new pull requests to change the content of your draft.
 
 ## Next Steps
 

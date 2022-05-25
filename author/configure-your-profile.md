@@ -46,6 +46,6 @@ gouravkhunger: # replace gouravkhunger with the username you want
 
 - After your are done, **Remove all the comments** (the `#`s and the text after them)
 
-- Commit your changes make a pull request. 
+- Commit the changes and make a pull request. 
 
 We'll merge your PR as soon as possible and your profile would be visible after about 10 minutes past the merge time, at `https://genicsblog.com/author/<your-username>/`: [example](https://genicsblog.com/author/gouravkhunger/){:target="_blank"}.

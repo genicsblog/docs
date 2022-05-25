@@ -42,3 +42,5 @@ In this section, you can share some additional information if you wish to.
 ---
 
 Once you submit a request, someone from the Genics team would respond if you can start working on the initial draft of the article!
+
+In the meantime, you can get familiar with the [UI components](/author/ui-components) that can be used in the article.
