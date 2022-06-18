@@ -54,7 +54,6 @@ title:  "How to write a draft"
 excerpt: "The complete guide you'll need to refer to create mind blowing drafts."
 description: "This is shown to the search engines. If undefined, excerpt is used as the description."
 image: "A url of the hosted image. Paste the image to a comment box on GitHub issues to generate a link quickly."
-hasCode: true
 category: coding
 tags: ["blogging", "tips"]
 author: gouravkhunger
@@ -70,8 +69,6 @@ author: gouravkhunger
 - `excerpt` is a short sentence - a summary of the artilce.
 
 - `image` is the image url where the thumbnail of this post is hosted. We do not host images, so you need to drag and drop your preferred thumbnail to the GitHub editor and it will automatically generate a URL for the hosted image.
-
-- `hasCode` is a boolean value determining if the article has code blocks/snippets. If your post doens't require snippets, simply remove this key from the front matter. This is used to load `prism.js` if the value of this key is `true`.
 
 - `category` defines what topic the post is about. Please use only one category per post.
 
