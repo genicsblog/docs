@@ -11,6 +11,7 @@ remote_theme: pmarsceill/just-the-docs
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 aux_links:
   "Discord Server":
