@@ -10,4 +10,4 @@ permalink: /developer/theme
 
 # Theme documentation
 
-**Note**: These developer docs will focus mainly on the [`theme-files`](https://github.com/genicsblog/theme-files){:target="_blank"} repo and explain the infrastructure related details.
+**Note**: These docs will focus mainly on the [`theme-files`](https://github.com/genicsblog/theme-files){:target="_blank"} repo and explain the infrastructure related details.

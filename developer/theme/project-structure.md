@@ -32,7 +32,7 @@ These are the files and folders relevant to the theme/code aspect of the site:
 
   - [`tool.html`](https://github.com/genicsblog/theme-files/blob/main/_layouts/tool.html){:target="_blank"}: The template used by tools pages. For example, [frontmatter generator](https://genicsblog.com/tool/frontmatter-generator){:target="_blank"} tool.
 
-- [`plugins`](https://github.com/genicsblog/theme-files/tree/main/_plugins){:target="_blank"}: Contains custom ruby plugins that extends the jekyll build process to achieve required behavior.
+- [`plugins`](https://github.com/genicsblog/theme-files/tree/main/_plugins){:target="_blank"}: Contains custom ruby plugins that extends the jekyll build process to achieve required behavior. Read more about [Jekyll plugins](https://jekyllrb.com/docs/plugins/){:target="_blank"}.
 
 - [`_scripts`](https://github.com/genicsblog/theme-files/tree/main/_scripts){:target="_blank"}: This folder contains external python scripts that are mostly used in GitHub Actions to validate certain things.
 
@@ -42,7 +42,7 @@ These are the files and folders relevant to the theme/code aspect of the site:
 
 - Other important files:
 
-  - [`_config.yml`](https://github.com/genicsblog/theme-files/blob/main/_config.yml){:target="_blank"}: Jekyll configuration file.
+  - [`_config.yml`](https://github.com/genicsblog/theme-files/blob/main/_config.yml){:target="_blank"}: Jekyll configuration file. Read more about [Jekyll configuration](https://jekyllrb.com/docs/configuration/){:target="_blank"}.
 
   - [`manifest.json`](https://github.com/genicsblog/theme-files/blob/main/manifest.json){:target="_blank"}: Manifest data needed for PWA support.
 
