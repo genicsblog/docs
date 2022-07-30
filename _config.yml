@@ -5,6 +5,7 @@ description: >-
   to start publishing content at genicsblog.com
 baseurl: ""
 url: "https://docs.genicsblog.com"
+footer_content: "Copyright &copy; 2021 Genics Blog"
 
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs

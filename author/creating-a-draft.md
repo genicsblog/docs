@@ -43,7 +43,7 @@ In the editor, give your file a name. Let's say you want to create a draft title
 
 Genics Blog requires each post/draft to have a frontmatter that defines the title, description, and other metadata. This is declared at the very top of the file within `---` quotations.
 
-**Note**: To ease the process explained below, you can use the [frontmatter generator](https://genicsblog.com/tool/frontmatter-generator) tool and copy the generated content to the top of your file.
+**Note**: To ease the process explained below, you can use the [frontmatter generator](https://genicsblog.com/tool/frontmatter-generator){:target="_blank"} tool and copy the generated content to the top of your file.
 
 To manually generate frontmatter, here's an example of a minimal valid frontmatter that Genics Blog understands:
 
