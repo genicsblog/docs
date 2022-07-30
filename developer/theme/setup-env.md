@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Local setup
-parent: Developer Docs
-nav_order: 2
+parent: Theme docs
+grand_parent: Developer Docs
+nav_order: 1
 description: "Guide to setting up the development environment to build genic's theme for local previews."
-permalink: /developer/setup-env
+permalink: /developer/theme/setup-env
 ---
 
 # Local setup instructions
 
-This document will guide you through setting up the local development environment for the [`theme-files`](http://github.com/genicsblog/theme-files) repo.
+This document will guide you through setting up the local development environment for the [`theme-files`](http://github.com/genicsblog/theme-files){:target="_blank"} repo.
 
 ## Pre-requisites
 

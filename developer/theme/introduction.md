@@ -4,7 +4,7 @@ title: Introduction
 parent: Developer Docs
 nav_order: 1
 description: "Introduction to the infrastructure related details at the Genics Blog"
-permalink: /developer/introduction
+permalink: /developer/theme/introduction
 ---
 
 # Introduction
@@ -25,15 +25,11 @@ These are the major repositories that form the entire base of [genicsblog.com](h
 
 - [`docs`](https://github.com/genicsblog/docs){:target="_blank"}: Hosts this documentation website.
 
----
-
-**Note**: This developer docs will focus mainly on the [`theme-files`](https://github.com/genicsblog/theme-files){:target="_blank"} repo and explain the infrastructure related details.
-
----
-
 ## Technical details
 
 - [`genicsblog.com`](https://genicsblog.com){:target="_blank"} is a static site built with [Jekyll](https://jekyllrb.com){:target="_blank"}.
 - The production website is hosted on [GitHub Pages](https://pages.github.com){:target="_blank"} and the [staging](https://staging.genicsblog.com){:target="_blank"} environment (to preview changes before they go live) is hosted on [Vercel](https://vercel.com){:target="_blank"}.
 - The tech stack for the website includes `HTML` template files, `TailwindCSS` and `JavaScript` for styling and functionality, and `Ruby` for custom plugins to alter the Jekyll build process according to needs.
-- Other languages/tools used are `Python` and `Bash` scripts for custom workflows and dev environments, `YAML` and `Markdown` for data files and posts.
+- Other languages/tools used are `Python` and `Bash` scripts for custom workflows and dev environments, `YAML`, `JSON`, `Markdown` for data files and posts.
+- Comments on the site are powered by [giscus](https://giscus.app){:target="_blank"}.
+- The discord bot uses [Discord.js](https://discord.js.org){:target="_blank"}.
