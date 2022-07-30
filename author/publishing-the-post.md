@@ -30,4 +30,4 @@ We'll notify you on the same issue thread and mark it closed once the article is
 
 Congrats on getting your post published to the [Genics Blog](https://genicsblog.com){:target="_blank"}!
 
-It is now live and you can share it with the world. We will [tweet](https://twitter.com/genicsblog) about your article within a week!
+It is now live and you can share it with the world. We will [tweet](https://twitter.com/genicsblog){:target="_blank"} about your article within a week!

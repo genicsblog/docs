@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Author Docs
-nav_order: 4
+nav_order: 3
 has_children: true
 description: "The complete guide to become an author at Genics Blog."
 permalink: /author
