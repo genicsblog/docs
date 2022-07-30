@@ -84,7 +84,7 @@ Link buttons are special links that adapt to the light and dark theme on the blo
 
 This renders a button component which opens a new tab with the website specified in `href` attribute. Other attributes it supports are `rel` and `target`, which default to `nofollow noreferrer noopener` and `_blank` by default.
 
-Example: [This post](https://genicsblog.com/github-repositories-to-crush-any-programming-interview) uses link buttons to add some cool links.
+Example: [This post](https://genicsblog.com/github-repositories-to-crush-any-programming-interview){:target="_blank"} uses link buttons to add some cool links.
 
 ## Media content
 

@@ -21,4 +21,4 @@ git clone https://github.com/<your account>/genicsblog.com.git
 cd genicsblog.com
 ```
 
-Once you make your changes, you can follow [this contribution guide](http://genicsblog.com/contribution-guide){:target="_blank"} to make a Pull Request. It is helpful to [read this article](https://genicsblog.com/gouravkhunger/how-to-create-a-pull-request-in-github-correctly) as well.
+Once you make your changes, you can follow [this contribution guide](http://genicsblog.com/contribution-guide){:target="_blank"} to make a Pull Request. It is helpful to [read this article](https://genicsblog.com/gouravkhunger/how-to-create-a-pull-request-in-github-correctly){:target="_blank"} as well.
